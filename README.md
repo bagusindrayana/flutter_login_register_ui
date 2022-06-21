@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/36830534/174746440-70a85f52-8f4a-4fd9-
 
 
 
-### Library
+### Packages
 - flutter_svg
 - wave
 - simple_animations
