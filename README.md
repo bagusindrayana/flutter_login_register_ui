@@ -1,6 +1,12 @@
 ## Login And Register UI
 Simple UI and animation fro login dan register using flutter
 
+
+
+https://user-images.githubusercontent.com/36830534/174746440-70a85f52-8f4a-4fd9-8d8e-db22830a5ea9.mp4
+
+
+
 ### Library
 - flutter_svg
 - wave
